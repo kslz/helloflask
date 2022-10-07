@@ -15,7 +15,7 @@ def index():
 
 启动pipenv shell： `pipenv shell`
 
-powershell中修改FLASK_APP： `$env:FLASK_APP = "hello.py"`
+powershell中修改FLASK_APP： `$env:FLASK_APP = "app2.py"`
 
 启动flask shell： `flask shell`
 
